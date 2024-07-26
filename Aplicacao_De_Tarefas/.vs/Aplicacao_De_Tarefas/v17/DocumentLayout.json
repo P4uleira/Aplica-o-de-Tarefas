@@ -1,12 +1,58 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Treino_Blazor\\Aplicacao_De_Tarefas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD916606-7948-4B37-B699-8FBB462BDC60}|Aplicacao_De_Tarefas.Client\\Aplicacao_De_Tarefas.Client.csproj|c:\\treino_blazor\\aplicacao_de_tarefas\\aplicacao_de_tarefas.client\\aplicacao_de_tarefas.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD916606-7948-4B37-B699-8FBB462BDC60}|Aplicacao_De_Tarefas.Client\\Aplicacao_De_Tarefas.Client.csproj|solutionrelative:aplicacao_de_tarefas.client\\aplicacao_de_tarefas.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA94D90E-238D-4BCC-A272-62ACD3146ED5}|Aplicacao_De_Tarefas\\Aplicacao_De_Tarefas.csproj|c:\\treino_blazor\\aplicacao_de_tarefas\\aplicacao_de_tarefas\\aplicacao_de_tarefas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA94D90E-238D-4BCC-A272-62ACD3146ED5}|Aplicacao_De_Tarefas\\Aplicacao_De_Tarefas.csproj|solutionrelative:aplicacao_de_tarefas\\aplicacao_de_tarefas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aplicacao_De_Tarefas.Client",
+              "DocumentMoniker": "C:\\Treino_Blazor\\Aplicacao_De_Tarefas\\Aplicacao_De_Tarefas.Client\\Aplicacao_De_Tarefas.Client.csproj",
+              "RelativeDocumentMoniker": "Aplicacao_De_Tarefas.Client\\Aplicacao_De_Tarefas.Client.csproj",
+              "ToolTip": "C:\\Treino_Blazor\\Aplicacao_De_Tarefas\\Aplicacao_De_Tarefas.Client\\Aplicacao_De_Tarefas.Client.csproj",
+              "RelativeToolTip": "Aplicacao_De_Tarefas.Client\\Aplicacao_De_Tarefas.Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T12:16:11.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aplicacao_De_Tarefas",
+              "DocumentMoniker": "C:\\Treino_Blazor\\Aplicacao_De_Tarefas\\Aplicacao_De_Tarefas\\Aplicacao_De_Tarefas.csproj",
+              "RelativeDocumentMoniker": "Aplicacao_De_Tarefas\\Aplicacao_De_Tarefas.csproj",
+              "ToolTip": "C:\\Treino_Blazor\\Aplicacao_De_Tarefas\\Aplicacao_De_Tarefas\\Aplicacao_De_Tarefas.csproj",
+              "RelativeToolTip": "Aplicacao_De_Tarefas\\Aplicacao_De_Tarefas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T12:16:45.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
